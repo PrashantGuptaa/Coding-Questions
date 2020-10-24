@@ -1,3 +1,5 @@
+Problem Statement
+
 Find the lexicographically smallest permutation P of integers from 1 to N such that:
 1. It should not be strictly increasing i. e. there must be an i such that P[i] < P[i-1] for 2 <= i <= N
 2. Sum of every three consecutive elements should be divisible by 3.
