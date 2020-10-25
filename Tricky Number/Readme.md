@@ -8,3 +8,17 @@ Constraints:
 1 <= N <= 109
 Output
 Print the number of good integers less than or equal to N.
+
+Sample Input:-
+4
+
+Sample Output:-
+1
+
+Sample Input:-
+9
+
+Sample Output:-
+3
+
+Explanation:- 4 6 9 are the only good integers
